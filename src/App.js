@@ -15,5 +15,5 @@ function App() {
     </Provider>
   );
 }
-
+//thunk 
 export default App;
